@@ -1,2 +1,6 @@
-Repo for my matrix class.
-Another line.
+A Matrix class taken from MOCHA package, which is distributed under the Eclipse
+1.0 license.  See https://projects.coin-or.org/Mocha
+
+
+It has functions to calculate the svd determinant and rank whish use
+LAPACK
