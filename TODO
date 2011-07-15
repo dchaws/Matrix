@@ -1,0 +1,3 @@
+1) Add compiling instructions. Requires lapack and maybe blas. Very OS dependent.
+
+2) Add compile time options to disable all lapack routines.
